@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Marcel Ramos P&#233;rez's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 49, Total Commits  (last year) : 2580, Total PRs: 443, Total PRs Merged: 376, Merged PRs Percentage: 84.88, Total PRs Reviewed: 55, Total Issues: 543, Contributed to (last year): 113</desc>
+        <desc id="descId">Total Stars Earned: 49, Total Commits  (last year) : 2598, Total PRs: 443, Total PRs Merged: 376, Merged PRs Percentage: 84.88, Total PRs Reviewed: 55, Total Issues: 543, Contributed to (last year): 113</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 44.077786020495225;
+        stroke-dashoffset: 44.064078853313944;
       }
     }
   
